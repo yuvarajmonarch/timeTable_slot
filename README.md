@@ -1,8 +1,5 @@
 # Ex03 Time Table
-## Date : 29-04-2025
-## Name : YUVARAJ B
-## REG NO : 212222040186
-
+# Date:29-04-25
 # AIM
 To write a html webpage page to display your slot timetable.
 
