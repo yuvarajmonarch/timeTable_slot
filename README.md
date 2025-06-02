@@ -1,9 +1,13 @@
 # Ex03 Time Table
-# Date:02-04-2024
+## Date : 02-04-2024
+## Name : YUVARAJ B
+## Reg No : 212222040186
+
 # AIM
 To write a html webpage page to display your slot timetable.
 
 # ALGORITHM
+
 ## STEP 1
 Create a Django-admin Interface.
 
